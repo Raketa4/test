@@ -1,2 +1,1 @@
-#Hello, world!
-#"Я учусь в Нетологии".
+# Hello, world!
